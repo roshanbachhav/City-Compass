@@ -1,25 +1,31 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from "react";
+import Navbar from "./Components/Navbar";
+import Places from "./Components/Places";
+import { Routes, Route } from "react-router-dom";
+import Home from "./Components/Home";
+import LocationView from "./Components/LocationView";
+import SearchResults from "./Components/SearchResults";
+import Footer from "./Components/Footer";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+export default class App extends Component {
+  render() {
+    return (
+      <div>
+        <Navbar />
+        <Routes>
+          {/* <Route path="/" element={<Home typeOf="FORT"/>} /> */}
+          <Route path="/" element={<Home />} />
+          <Route path="/Places" element={<Places />} />
+          <Route path="/Places/:typeOf" element={<Places />} />
+          <Route path="/Places/location-view/:id" element={<LocationView />} />
+          <Route
+            path="/Places/search/:query"
+            element={<SearchResults />}
+          ></Route>
+        </Routes>
+
+        <Footer />
+      </div>
+    );
+  }
 }
-
-export default App;
