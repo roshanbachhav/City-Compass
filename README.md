@@ -1,70 +1,21 @@
-# Getting Started with Create React App
+[Host : https://lnkd.in/dDFPQ8BS](https://city-compass.onrender.com/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🚀 Introducing City Compass: Your Ultimate Guide to India's Best Picnic and Tourism Spots! 🌟
+We are excited to unveil City Compass, a comprehensive React JS-based platform designed to help you explore the finest picnic and tourism locations across India. Whether you're planning a weekend getaway or a holiday adventure, City Compass is your go-to source for discovering the most captivating and picturesque spots in the country.
+🔹 React JS and Node.js Integration: City Compass leverages the power of React JS for a dynamic and engaging user experience. The backend API, developed using Node.js, ensures seamless data handling and efficient performance.
+🔹 Modern Frameworks and Tools: Our website incorporates cutting-edge frameworks and tools to enhance usability and aesthetics:
+Material UI for sleek and responsive design elements.
+Bootstrap for a robust and flexible layout system.
+Lucide Icons and FontAwesome for a visually appealing icon set.
+🔹 Class Component Architecture: Built on React class components, City Compass follows a structured and maintainable approach to development, ensuring reliability and scalability.
+🔹 Discover Top Locations: From serene picnic spots to exciting tourism destinations, City Compass offers detailed information on India's best places to visit. Our intuitive interface allows users to easily find and explore top-rated locations, making planning your next trip a breeze.
+Embark on your journey with City Compass and uncover the hidden gems of India. Start exploring today and make every adventure unforgettable! 🌍✨
 
-## Available Scripts
+api url : [https://lnkd.in/dvhwSJuR](https://rest-api-production-ee75.up.railway.app/api/data/)
 
-In the project directory, you can run:
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Screenshot 2024-07-27 203122](https://github.com/user-attachments/assets/669a9a83-e5d3-406c-a547-47175445ba42)
+![Screenshot 2024-07-27 203137](https://github.com/user-attachments/assets/02bdbcc0-e3c7-4427-b142-af1d698c9546)
+![Screenshot 2024-07-27 203209](https://github.com/user-attachments/assets/aa332ed7-9654-4949-8642-24342abc151b)
+![Screenshot 2024-07-27 203224](https://github.com/user-attachments/assets/d8db7403-70f4-4bb3-a36a-4291d4a7348b)
+![Screenshot 2024-07-27 203243](https://github.com/user-attachments/assets/167abd9e-3bb6-4d22-a277-86f9763a7881)
